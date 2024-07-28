@@ -8,7 +8,7 @@ K fold cross validation also have used to measure the accuracy.
 BY using GridsearchCV the best model has found for the prediction.
 During model building I came across all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, k fold cross validation etc.
 
-#Technologies used:
+# Technologies used:
 Python
 Numpy and Pandas for data cleaning
 Matplotlib for data visualization
