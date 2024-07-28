@@ -6,3 +6,11 @@ By using MatplotLib and visualizing the datas, some more modification has been m
 As dealing with charecters is not easy for machine, we have used 'One Hot Encoding' to create columns by the name of locality where the places were represented by binaries(0/1).
 K fold cross validation also have used to measure the accuracy.
 BY using GridsearchCV the best model has found for the prediction.
+During model building I came across all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, k fold cross validation etc.
+
+#Technologies used:
+Python
+Numpy and Pandas for data cleaning
+Matplotlib for data visualization
+Sklearn for model building
+Google Collab fpr IDE
