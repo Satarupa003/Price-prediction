@@ -1,5 +1,5 @@
 # Price-prediction
-Predicting the price of real estate by the factors of location, square-feet area, number of bathrooms and bedrooms.
+Predict the price of real estate by the factors of location, square-feet area, number of bathrooms and bedrooms.
 Before procceding towards creating model, data cleaning has been done using Pandas and Numpy.
 The datas has been loaded from csv to dataframe using Pandas library of Python.
 By using MatplotLib and visualizing the datas, some more modification has been made.
